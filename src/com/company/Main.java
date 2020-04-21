@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class Main {
 
     public static void main(String[] args) {
-        //Creat s Scanner object
+        //Creat a Scanner object
         Scanner input = new Scanner(System.in);
 
         //Prompt the user to enter a radius
